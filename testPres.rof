@@ -1,0 +1,22 @@
+.SH NAME
+groff presentation
+.SH SYNOPSIS
+this is a synopsis
+.SH DESCRIPTION
+This describes
+.B PAUSE
+Something.
+.P
+This should be a 
+.BR paragraph.
+.BL
+.LI
+List Item 1
+.PAUSE
+.LI
+List Item 2
+.SK
+.TITLE "Title"
+.P
+This is another slide
+.TITLE "Another one" 

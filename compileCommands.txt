@@ -1,0 +1,2 @@
+To compile workout.rof:
+groff -ms -k workout.rof -T pdf > workout.pdf
